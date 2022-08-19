@@ -1,0 +1,159 @@
+#headr{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background: black;
+}
+
+#headr a{
+    text-decoration: none;
+    color: rgb(170, 170, 170);
+    font-size: 2vw;
+}
+
+#titl a{
+    font-size: 2vw;
+    color: #b77762;
+    font-style: italic;
+}
+
+#img img{
+width: 100%;
+height: 41vw;
+}
+
+
+
+#titlog:hover{
+    color: rgb(255, 193, 112);
+}
+
+
+#form{
+    margin-top: -40vw;
+    width: 35vw;
+    height: auto;
+    background-color: #e5e5e5;
+    position: relative;
+    opacity: 0.9;
+    margin-right: 4vw;
+    margin-top: -36vw;
+}
+
+#formtitle{
+    text-align: center;
+    font-size: 2vw;
+}
+
+
+.inp{
+    width: 30vw;
+    height: 3vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
+    font-size: 1vw;
+    text-align: center;
+}
+
+.inpselect{
+    width: 20vw;
+    height: 2vw;
+    margin-left: 2vw;
+    margin-top: 1vw;
+    font-size: 1vw;
+    text-align: center;
+}
+
+.inp2{
+    width: 30vw;
+    height: 3vw;
+    margin-left: 2vw;
+    margin-top: 2vw;
+    font-size: 1vw;
+    text-align: center;
+}
+
+.logbtn{
+    width: 14vw;
+    height: 2vw;
+    margin-left: 4vw;
+    font-size: 1vw;
+    background-color: #54BAB9;
+    margin-bottom: 1vw;
+    color: whitesmoke;
+    margin-left: 2.2vw;
+    margin-top: 1vw;
+}
+
+#check{
+margin-left: 2.4vw;
+margin-top: 1vw;
+font-size: 1vw;
+}
+
+#check span{
+    font-size: 1vw;
+}
+
+.heading{
+    font-size: 2vw;
+    text-align: center;
+    font-weight: bolder;
+}
+
+/* #err{
+    color: red;
+    text-align: center;
+} */
+
+#images{
+    display: flex;
+}
+
+.indecbtn{
+    width: 2.5vw;
+    height: 2vw;
+    font-size: 1vw;
+    border: none;
+    background-color: #b1b1b1;
+}
+
+#adcbtn{
+    width: 7.5vw;
+    height: 2vw;
+    margin-top: 0.5vw;
+    border: none;
+    background-color: #b1b1b1;
+    font-size: 1vw;
+}
+
+#imagess{
+    height: 10vw;
+}
+
+.prodnames{
+    font-size: 1vw;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cart{
+    font-size: 1vw;
+    font-weight: bold;
+}
+
+#query{
+    text-align: center;
+    font-size: 1vw;
+}
+
+#query input{
+ margin-left: 0.7vw;
+ font-size: 1vw;
+
+}
+
+#query button{
+    font-size: 1vw;
+    margin-bottom: 1vw;
+   }
